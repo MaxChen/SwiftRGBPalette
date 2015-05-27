@@ -1,2 +1,1 @@
 # SwiftRGBPalette
-# SwiftRGBPalette
